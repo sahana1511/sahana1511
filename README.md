@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahana1511&label=Profile%20views&color=0e75b6&style=flat" alt="sahana1511" /> </p>
 
+- 🔭 I’m currently working **on a lot of Projects**
+
 - 🌱 I’m currently learning **Math Behind ML**
+
+- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+
+- 📝 I regularly write articles on [Coming Soon](Coming Soon)
+
+- 💬 Ask me about **Python, AI & ML & DS**
 
 - 📫 How to reach me **sahana.arikrishnan03@gmail.com**
 
